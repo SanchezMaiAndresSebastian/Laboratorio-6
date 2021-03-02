@@ -14,7 +14,7 @@
 
 ### 2.	MARCO TEÓRICO 
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6/tree/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6/blob/main/Fotos/1.png)
 
 ### 3.	DIAGRAMAS
 
