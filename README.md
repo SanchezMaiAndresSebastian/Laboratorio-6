@@ -14,6 +14,7 @@
 
 ### 2.	MARCO TEÓRICO 
 
+![](https://github.com/SanchezMaiAndresSebastian/Laboraorio-6/tree/main/Fotos/1.png)
 
 ### 3.	DIAGRAMAS
 
@@ -39,42 +40,58 @@
 
 ### 5.	EXPLICACIÓN
 
-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+5.1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
 4 cuadros
 
-¿En qué valor está posicionada la perilla VOLTS/DIV? 
+5.2. ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
 3 VOLTS/DIV
 
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+5.3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
 8 cuadros
 
-¿En qué valor está posicionada la perilla TIME/DIV? 
+5.3. ¿En qué valor está posicionada la perilla TIME/DIV? 
 
 50 u
 
-¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+5.4. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
+
 Amplitud de voltaje: 19.96 (V)
+
 Periodo: 0.394(ms)
-7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+
+5.5. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
+
 f: 2557,5447 (Hz)
+
 ω: 16069.5276(rad/s)
-7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 6.913 V
-7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+
+5.6. Con el multímetro digital mida el voltaje de salida en RL: 
+
+7.008  V
+
+5.7. Compare el voltaje medido en el punto 5.4 y el obtenido en el punto 7.5.6.
+
 ¿Coinciden? 
+
 No
+
 ¿Por qué?
+
+- Debido a que el multimetro solo mide un tipo de voltaje que es el ttal de la onda sinusidal ya multiplicado con todo lo que es el valor del desfase
+- tamben que es el resultado de dicha funcion en un punto del tiempo
+- El osciloscopio mide la fucnion total, es decir de pico a pico
 
 
 ### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
- - Siempre tener conectado a una fuente de corriente continua
- - Tener la fuente de voltaje configurada para la medición en voltios
- - Tener el multímetro siempre en la configurada en la medición de voltios 
+- Utilizar una licencia creativa gratuita que dan por q5 dias 
+- Crera un usaurio
+- Tener unas preconfiguracones de que el emulador nos guardo el proyecto avnzado
  
 ### 7.	APORTACIONES
 
@@ -84,13 +101,14 @@ No
  - LLa fuente de corriente directa mide cuantos amperios tiene el circuito.
  
 ### 8.	CONCLUSIONES
- - Se demostro que las leeys de lkirchoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del proyecto.
- - Al momento de construir el circuito se tiene que tener en cuenta que tiene que conectarse correctamenet los cabls en el positivo y negativo de todos los instrumentos electricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
- - Cuando en unn resistor se encuentra aplicado con el multímetro la medicion de su corriente, cambia el voltaje de los demas resistores que se tienen midiendo con los demás herraminetas
+ - No es la misma señal cuando se mide en el multimetro digital, es decir no es un valor aproximado real
+ - Las ondas sinusuidales sirven en cualquier otra materia debido a que siempre están presnets de anera no relacioanda como es el en la biologa
+ - Un multimetro digital te la magnitud en dicha fucnión del tiempo
+ - 
 
 ### 9.	BIBLIOGRAFÍA
 
-Floyd, T. (2007). Principios de circuitos electricos. Mexico: Pearson Educacion. Serway,
+[1] Floyd, T. (2007). Principios de circuitos electricos. Mexico: Pearson Educacion. Serway,
 
-R. (2001). Fisica II. Mexico: Pearson Educacion.
+
 ### 10.	 ANEXOS
