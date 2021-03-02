@@ -18,8 +18,9 @@
 
 ### 3.	DIAGRAMAS
 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6/blob/main/Fotos/2.png)
 
-
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6/blob/main/Fotos/3.png)
 
 
 ### 4.	LISTA DE COMPONENTES
@@ -112,3 +113,6 @@ No
 
 
 ### 10.	 ANEXOS
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6/blob/main/Fotos/4.png)
+
